@@ -1,5 +1,6 @@
 # client_and_server
 
-- Nama : Zaki Tirta Ramadan
-- NIM : 09030582226924
-- Kelas : TK4B
+## Nama: Zaki Tirta Ramadan
+## NIM: 1234567890
+## Kelas: A1
+
